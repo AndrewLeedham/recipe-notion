@@ -1,0 +1,13 @@
+{
+    "id": "notion",
+    "name": "recipe-notion",
+    "version": "1.0.1",
+    "description": "A Franz recipe to add https://notion.so support",
+    "main": "index.js",
+    "author": "Andrew Leedham <AndrewLeedham@Outlook.com>",
+    "license": "MIT",
+    "repository": "https://github.com/AndrewLeedham/recipe-notion",
+    "config": {
+      "serviceURL": "https://www.notion.so/"
+    }
+  }
